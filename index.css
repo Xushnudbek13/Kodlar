@@ -1,0 +1,39 @@
+.box {
+    height: 900px;
+    display: flex;
+    border-style: double;
+    border-right-color: pink;
+border-left-color: darkred;
+border-bottom-color: green;
+border-top-color: blue  ;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    background-color: rgba(98, 236, 236, 0.418);
+
+}
+.windows{
+border-style: dotted;
+border-color: green;
+align-items: center;
+}
+.alfa{
+border-style: dashed;
+border-block-start-color: black;
+background-image: url(./img/IMG_20221030_101803_666.jpg);
+align-items: center;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.text-box {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.google-link {
+    text-decoration: none;
+}
